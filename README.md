@@ -1,19 +1,13 @@
 # Robo-Friend React.js App
 
-###### `git clone https://github.com/samhayder/robofriend-react.git`
-###### `run npm install`
-###### `run npm start`
-
-# PixaBay Image Finder
-
-> React & Material UI app to find images utilizing the PixaBay API
-
-Register your API Key at
-[https://pixabay.com/](https://pixabay.com/)
+> React app to search Robo Friends
 
 ## Quick Start
 
 ```bash
+# clone the project
+git clone https://github.com/samhayder/robofriend-react.git
+
 # Install dependencies
 npm install
 
@@ -28,12 +22,10 @@ npm run build
 
 ### Author
 
-Brad Traversy
-[Traversy Media](http://www.traversymedia.com)
 
 ### Version
 
-1.0.0
+0.1.0
 
 ### License
 
